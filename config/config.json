@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAF3daeB1B7c1b1D419679Ff2016Ae55887eD94FE",
+  "SCAN_LINK": "https://bscscan.com/token/0xAF3daeB1B7c1b1D419679Ff2016Ae55887eD94FE",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "FUKU NEKO",
+  "SYMBOL": "FUKU",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Lootex",
+  "MARKETPLACE_LINK": "https://lootex.io",
+  "SHOW_BACKGROUND": true
+}
